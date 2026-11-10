@@ -1,0 +1,16 @@
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# 模型权重与训练输出
+*.pt
+*.pth
+*.onnx
+runs/
+datasets/
